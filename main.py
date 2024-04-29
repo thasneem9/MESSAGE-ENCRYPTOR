@@ -1,11 +1,12 @@
-from tkinter import *
-from tkinter import messagebox
-import base64
-import os
-from tkinter import Tk
-from tkinter import PhotoImage
+#THANUJA'S PART:
 
 
+
+
+#KARTHIKEYA'S PART:
+
+
+#THASNEEM'S PART:
 def main_screen():
     global screen
     global code
